@@ -49,4 +49,27 @@ API Design
 
 <img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step4_Covid19-api/Api.png>
 
+### Step5
+Step 5:  Overlay the data on the maps.
+#### Result for Step5:
+Example:
+Australia
+
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step5_Final/Aus.png>
+
+Canada
+
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step5_Final/Canada.png>
+
+Germany
+
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step5_Final/Germany.png>
+
+UK
+
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step5_Final/UK.png>
+
+Italy
+
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step5_Final/Italy.png>
 
