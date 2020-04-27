@@ -52,7 +52,8 @@ API Design
 ### Step5
 Step 5:  Overlay the data on the maps.
 #### Result for Step5:
-Example:
+Example Countries:
+
 Australia
 
 <img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step5_Final/Aus.png>
