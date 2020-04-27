@@ -24,7 +24,8 @@ Step 2:  Go through REACT native Tutorial
 Build Hello Applications
 Run Hello applications on emulator and your phone.
 It will be great to run it on two phones if you can (iOS and Android)
-Result:
+#### Result:
+
 <center>Hello World</center>
 <div align=center><img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step1%2C2_HelloWorld/HelloWorld.png>
 
