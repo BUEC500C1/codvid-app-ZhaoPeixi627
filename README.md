@@ -27,12 +27,12 @@ It will be great to run it on two phones if you can (iOS and Android)
 #### Result for Step1 & Step2:
 Hello World
 
-<div align=center><img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step1%2C2_HelloWorld/HelloWorld.png>
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step1%2C2_HelloWorld/HelloWorld.png>
 
 
 Hello Peixi
 
-<div align=center><img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step1%2C2_HelloWorld/HelloPeixi.png
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step1%2C2_HelloWorld/HelloPeixi.png
 
 
 ### Step3
@@ -40,6 +40,6 @@ Step 3:  Develop use case to display a map.  (GitHub location)
 #### Result for Step3:
 Map View
 
-<div align=center><img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step3_Map/Map.png>
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step3_Map/Map.png>
 
 
