@@ -32,7 +32,7 @@ Hello World
 
 Hello Peixi
 
-<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step1%2C2_HelloWorld/HelloPeixi.png
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step1%2C2_HelloWorld/HelloPeixi.png>
 
 
 ### Step3
@@ -41,5 +41,12 @@ Step 3:  Develop use case to display a map.  (GitHub location)
 Map View
 
 <img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step3_Map/Map.png>
+
+### Step4
+Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.
+#### Result for Step4:
+API Design
+
+<img width="242" height="407" src=https://github.com/BUEC500C1/codvid-app-ZhaoPeixi627/blob/master/Step4_Covid19-api/Api.png>
 
 
